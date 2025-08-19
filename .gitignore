@@ -1,0 +1,28 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# === Eclipse ===
+.classpath
+.project
+.settings/
+bin/
+tmp/
+
+# === Maven ===
+target/
+log/
+dependency-reduced-pom.xml
+release.properties
+buildNumber.properties
+
+# === Gradle ===
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+.metadata
+# ===
