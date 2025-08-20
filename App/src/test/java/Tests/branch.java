@@ -26,7 +26,14 @@ System.out.println("Abhishek");
 public void Test() {
 	System.out.println("I am on my right path");
 System.out.println("hdsjjsksl");
+
+
 	
 
+}
+
+@Test
+public void createafunction() {
+	System.out.println("Do what you want");
 }
 }
