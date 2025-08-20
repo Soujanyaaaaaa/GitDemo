@@ -27,11 +27,18 @@ public void Test() {
 	System.out.println("I am on my right path");
 	Systemljalkdjs;
 System.out.println("hjksdahkahdjhhjakjkddsjjsksl");
+<<<<<<< HEAD
 kldjldk
 djsyuui
 kdoudi
 dik
 doo
+
+
+
+
+	
+
 
 }
 
